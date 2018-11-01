@@ -16,4 +16,4 @@ Game Rules:-
 
 # Winner Screen
 
-![alt text](https://github.com/sanju1623/Dice-Game/blob/master/Screenshot%20(242).png)
+![alt text](https://github.com/sanju1623/Dice-Game/blob/master/Screenshot%20(243).png)
